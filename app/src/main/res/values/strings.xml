@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Always Sunny Digital Clock</string>
+
+    <string name="dummy_content">It\'s Always Sunny\nIn Philadelphia</string>
+</resources>
