@@ -7,6 +7,5 @@ As a Philadelphia native who loves [It's Always Sunny in
 Philadelphia](https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia), 
 I built this app to rejuvenate my old Nexus 7 tablet. The app acts as 
 a clock and is mimicing the time/place title card from the show:
-> 7:30 AM  
-> On a Friday  
-> Philadelphia, PA  
+
+![screenshot](Screenshot.png)
