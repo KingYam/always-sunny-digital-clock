@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
 # It's Always Sunny In Philadelpha Digital Clock App
 
 This app is meant to be run fullscreen on a tablet that is being used as 
